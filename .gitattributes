@@ -1,3 +1,5 @@
+Assets/ArtResources/Sci-Fi filter=lfs diff=lfs merge=lfs -text
+UI/_SciFi_GUISkin_/atlas.png filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.glb filter=lfs diff=lfs merge=lfs -text
